@@ -31,7 +31,7 @@ function App() {
         {/* <a class="navbar-brand" href="https://www.youtube.com/@IntegrationNinjas">
           <img src="./logo_p.png" width="50" height="50" class="d-inline-block" alt="" />
           
-          Ahmed Waseem
+          Hafiz Ahmed Waseem
         </a> */}
       </nav>
       <div className='container'>
